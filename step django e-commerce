@@ -1,0 +1,16 @@
+repo : https://github.com/Verdyevan/Ecommerece_django/tree/master/ecommerce
+
+create project django_ecommerce
+
+pip install django
+django-admin startproject ecommerce
+django-admin startapp 
+
+git remote add origin git@github.com:teguhteja/django_ecommerce.git
+git push origin main
+
+git log --oneline
+
+./manage.py runserver
+
+
